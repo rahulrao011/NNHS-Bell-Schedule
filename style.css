@@ -1,0 +1,20 @@
+*
+{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    position: absoulte;
+    top: 1vw;
+    left: 1vw;
+    padding: 0;
+    width: 280px;
+}
+
+.title {
+    font-size: 2vw;
+    width: 100vw;
+
+}
+
+.text {
+    font-size: 3vw;
+}
